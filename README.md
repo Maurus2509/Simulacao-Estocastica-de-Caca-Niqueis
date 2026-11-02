@@ -13,13 +13,13 @@ Este projeto é uma ferramenta em Python desenvolvida para simular rodadas de jo
 
 Por padrão, a função utiliza as seguintes premissas financeiras e probabilísticas:
 
-- **Probabilidade de Vitória ($P$)**: $16\%$ ($0{,}16$)
-- **Multiplicador de Ganho**: $5{,}0\times$ o valor apostado
-- **Valor por Aposta**: $R\$ 10{,}00$
-- **Saldo Inicial por Jogador**: $R\$ 500{,}00$
-- **Retorno Esperado por Giro ($E$)**:
-  $$E = (10 \times 5{,}0 \times 0{,}16) - 10 = 8 - 10 = -R\$ 2{,}00$$
-  *(Ou seja, a casa possui uma vantagem estatística esperada de $20\%$ por giro)*.
+- **Probabilidade de Vitória (P)**: 16% (0,16)
+- **Multiplicador de Ganho**: 5X o valor apostado
+- **Valor por Aposta**: R$10,00
+- **Saldo Inicial por Jogador**: R$ 500,00
+- **Retorno Esperado por Giro (E)**:
+  E = (10 x 5,0 x 0,16) - 10 = 8 - 10 = -R$ 2,00
+  *(Ou seja, a casa possui uma vantagem estatística esperada de 20% por giro)*.
 
 ---
 
